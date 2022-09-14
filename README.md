@@ -11,16 +11,19 @@ Hi, I'm Awais Raza
 </p>
 <hr/>
 
+- 💻 **Interest**: AI/ML/DS, Aeronuatical Engineering, Space Research, project management
+- 💬 **Ask me** about Nextjs, Django
+- 📫 **How to reach me:** Email || LinkedIn || Facebook || Twitter
+- 🗺️ **Located** near Sargodha, Pakistan
+- 💼 **CV/Resume:** 
+- 📝 **Blog:** 
+- 🌐 **Personal Website:**  
+- ⚡ **Hobby:** 
+## 🔭 I’m currently working on
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱 I’m currently learning
+
 
 
 
