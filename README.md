@@ -11,20 +11,7 @@ Hi, I'm Awais Raza
 </p>
 <hr/>
 
-## 🔥 Streak Stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/AwaisOem/AwaisOem">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AwaisOem&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center"> If you can dream it, you can do it🔥 </p>
-</p>
-
-<!--
-**AwaisOem/AwaisOem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -34,6 +21,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisOem&langs_count=8)](https://github.com/AwaisOem/github-readme-stats)
-[![AwaisOem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwaisOem)](https://github.com/AwaisOem/github-readme-stats)
+
+
+
+
+## 📈 GitHub Activity Graph:
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/AwaisOem#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=AwaisOem&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/AwaisOem#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=AwaisOem&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/AwaisOem#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisOem&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/AwaisOem#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisOem&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/AwaisOem#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AwaisOem&theme=default"/></a><a href="https://github.com/AwaisOem#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AwaisOem&theme=tokyonight"/></a></td>
+    </tr>
+</table>
