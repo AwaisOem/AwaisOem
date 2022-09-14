@@ -18,13 +18,13 @@ Hi, I'm Awais Raza
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django)
 ![C++](https://img.shields.io/badge/C++-0000FF?style=for-the-badge&logo=cplusplus)
 
-- 📫 **Social:**    <a>  <img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a><img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+- 📫 **Social:**    <a href="https://www.linkedin.com/in/awais-raza-a13a77240/" target="_blank">  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCXm9rJ9-i0LTdIIsL3F6skg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 [![Awais Academy](https://img.shields.io/badge/mail-000?style=for-the-badge&logo=gmail&logoColor=green)](https://ranaabdullah.netlify.app)
 
 - 🗺️ **Located** near Sargodha, Pakistan
-- 💼 **CV/Resume:** <a href="http://awaisoem.netlify.app/" target="_blank">resume</a>
-- 📝 **Blog:** <a href="http://awaisoem.netlify.app/" target="_blank">blogs</a>
+- 💼 **CV/Resume:** <a>resume</a>
+- 📝 **Blog:** <a href="https://awaisoem.github.io/SPARK-OFFICIALS/" target="_blank">blogs</a>
 - 🌐 **Personal Website:**  <a href="http://awaisoem.netlify.app/" target="_blank">website</a>
 - ⚡ **Hobby:** Physics Research, TED talks, Informative Documentries
 
