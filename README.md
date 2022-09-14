@@ -63,7 +63,7 @@ Hi, I'm Awais Raza
 <br>
 <br>
 <br>
-
+<!-- 
 ## 🖥️ Major Projects
 
 | Year | Title                                    | Technologies                           |
@@ -84,7 +84,7 @@ Hi, I'm Awais Raza
 <br>
 <br>
 <br>
-
+ -->
 ## 📈 GitHub Activity Graph:
 
 <table>
