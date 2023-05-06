@@ -25,7 +25,7 @@ Hi, I'm Awais Raza
 - 🗺️ **Located** near Sargodha, Pakistan
 - 💼 **CV/Resume:** <a>resume</a>
 - 📝 **Blog:** <a href="https://awaisoem.github.io/SPARK-OFFICIALS/" target="_blank">blogs</a>
-- 🌐 **Personal Website:**  <a href="http://awaisoem.netlify.app/" target="_blank">website</a>
+- 🌐 **Personal Website:**  <a>website</a>
 - ⚡ **Hobby:** Physics Research, TED talks, Informative Documentries
 
 ## 🌱 I’m currently learning
