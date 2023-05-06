@@ -18,7 +18,7 @@ Hi, I'm Awais Raza
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django)
 ![C++](https://img.shields.io/badge/C++-0000FF?style=for-the-badge&logo=cplusplus)
 
-- 📫 **Social:**    <a href="https://www.linkedin.com/in/awais-raza-a13a77240/" target="_blank">  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 📫 **Social:**    <a href="https://www.linkedin.com/in/awaisoem/" target="_blank">  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCXm9rJ9-i0LTdIIsL3F6skg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 [![Awais Academy](https://img.shields.io/badge/mail-000?style=for-the-badge&logo=gmail&logoColor=green)](mailto:awaisoem@gmail.com)
 
