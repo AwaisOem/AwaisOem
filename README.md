@@ -23,9 +23,11 @@ Hi, I'm Awais Raza
 [![Email](https://img.shields.io/badge/mail-000?style=for-the-badge&logo=gmail&logoColor=green)](mailto:awaisoem@gmail.com)
 
 - 🗺️ **Located** near Sargodha, Pakistan
-- 💼 **CV/Resume:** <a href="https://awaisoem.netlify.app/awais_resume.pdf" target="_blank">resume</a>
-- 📝 **Blog:** <a href="https://awaisoem.github.io/SPARK-OFFICIALS/" target="_blank">blogs</a>
 - 🌐 **Personal Website:**  <a href="https://awaisoem.netlify.app" target="_blank">website</a>
+<!---
+- 📝**Blog:** <a href="https://awaisoem.github.io/SPARK-OFFICIALS/" target="_blank">blogs</a> 
+- 💼 **CV/Resume:** <a href="https://awaisoem.netlify.app/awais_resume.pdf" target="_blank">resume</a>
+---->  
 - ⚡ **Hobby:** Physics Research, TED talks, Informative Documentries
 
 ## 🌱 I’m currently learning
