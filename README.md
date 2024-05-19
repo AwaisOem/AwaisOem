@@ -20,12 +20,17 @@ Hi, I'm Awais Raza
 ## Others
 - 💻 **Interest**: AI/ML/DS, Aeronuatical Engineering, Space Research, project management
 - ⚡ **Hobby:** Physics Research, TED talks, Informative Documentries
+## Connect with me
+<p align="left">
+	<a href="https://linkedin.com/in/awaisoem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awaisoem" height="30" width="40" /></a>
+	<a href="https://www.leetcode.com/awaisoem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="awaisoem" height="30" width="40" /></a>
+<!-- 	<a href="https://www.twitter.com/awaisoem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awaisoem" height="30" width="40" /></a> -->
+</p>
 <br><br>
 
 ## 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
- 
  <tr>
     <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
@@ -186,10 +191,10 @@ Hi, I'm Awais Raza
           <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
         <br>docker
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="kubernetes" />
         <br>kubernetes
-    </td>
+    </td> -->
     <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="cloudflare" />
         <br>cloudflare
@@ -265,6 +270,7 @@ Hi, I'm Awais Raza
 
 </div>
 
+<!--- 
 ## 🖥️ Important Repositories
 
 | Year | Title                                    | Technologies                           |
@@ -272,8 +278,7 @@ Hi, I'm Awais Raza
 | 2023 | [Online Hospital Website](https://www.youtube.com/watch?v=c012FPQE3F8) | javascript, tailwind, jquery, php, postgreSQL, REST, WebRTC |
 | 2022 | [Wowlearns](https://wowlearns.vercel.app) | tailwind, javascript, Next.js, React.js, Frammer Motion, Zustand, Firebase, Drive/Youtube APIs, PWA, playstore |
 | 2022 | [Sparlix](https://sparlix.netlify.app) | html,css, vanilla JS, single page app(SPA), TMDB movies api |
-
-
+----->
 
 <p align="center">
 
@@ -282,33 +287,15 @@ Hi, I'm Awais Raza
 
 </p>
 
-<!-- activity graph heroku-app start -->
+<!-- 
+
 <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaisOem&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 </p>
-<!-- activity graph heroku-app end -->
-
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisOem&theme=gotham&langs_count=6" alt="My Languages"/>
 <a href="https://github.com/AwaisOem?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=AwaisOem&theme=onestar&no-frame=true&column=3&row=2"  width="50%" alt="trophy stats"/></a>
 </p>
-
-<!---
-<img align="left" alt="HTML5" src="https://img.icons8.com/color/36/000000/html-5.png"/>
-<img align="left" alt="CSS3" src="https://img.icons8.com/color/36/000000/css3.png"/>
-<img align="left" alt="JavaScript" src="https://img.icons8.com/color/36/000000/javascript.png"/>
-<img align="left" alt="nextjs" src="https://img.icons8.com/color/36/000000/nextjs.png"/>
-<img align="left" alt="React" src="https://img.icons8.com/plasticine/36/000000/react.png"/>
-<img align="left" alt="Redux" src="https://img.icons8.com/color/36/000000/redux.png"/>
-<img align="left" alt="Node" src="https://img.icons8.com/color/36/000000/nodejs.png"/>
-<img align="left" alt="express" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/express/express.png" />
-<img align="left" alt="webpack" src="https://img.icons8.com/dusk/36/000000/webpack.png"/>
-<img align="left" alt="Git" src="https://img.icons8.com/color/36/000000/git.png"/>
-<img align="left" alt="MongoDB" src="https://img.icons8.com/color/36/000000/mongodb.png"/>
-<img align="left" alt="GitHub" src="https://img.icons8.com/fluent/36/000000/github.png"/>
-<img align="left" alt="Python" src="https://img.icons8.com/color/36/000000/python.png"/>
-<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluent/36/000000/visual-studio-code-2019.png"/>
-<img align="left" alt="bootstrap" src="https://img.icons8.com/color/36/000000/bootstrap.png"/>
---->
+-->
 
