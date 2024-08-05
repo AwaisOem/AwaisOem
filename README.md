@@ -15,11 +15,11 @@ Hi, I'm Awais Raza
 
 - 🏆 **Full-Stack Web developer**
 - 🥇 **Hybrid Mobile App Developer** 
-- 🥈 **Python Automation**
-- 🥉 **AI Engineer**
+- 🥈 **AI Application Engineer**
+- 🥉 **Python Developer**
 ## Others
 - 💻 **Interest**: Entrepreneurship, AI/ML/DS, Aeronuatics, project management
-- ⚡ **Hobby:** Hacking, Physics and Space Research, History, TED talks, Informative Documentries
+- ⚡ **Hobby:** Hacking, OSINT, Physics and Space Research, History, TED talks, Travel
 ## Connect with me
 <p align="left">
 	<a href="https://linkedin.com/in/awaisoem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awaisoem" height="30" width="40" /></a>
@@ -28,7 +28,7 @@ Hi, I'm Awais Raza
 </p>
 <br><br>
 
-## 💻 My favorite tools and technologies
+## 💻 My tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
  <tr>
