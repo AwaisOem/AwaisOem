@@ -11,7 +11,7 @@
 - 🥉 **Python Developer**
 ## Others
 - 💻 **Interest**: Entrepreneurship, AI/ML/DS, Aeronuatics, project management
-- ⚡ **Hobby:** Hacking, OSINT, Physics and Space Research, History, TED talks, Travel
+- ⚡ **Hobby:** OSINT, OSINV, Physics and Space Research, History, TED talks
 ## Connect with me
 <p align="left">
 	<a href="https://linkedin.com/in/awaisoem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awaisoem" height="30" width="40" /></a>
