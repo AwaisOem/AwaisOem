@@ -272,6 +272,20 @@
 | 2022 | [Sparlix](https://sparlix.netlify.app) | html,css, vanilla JS, single page app(SPA), TMDB movies api |
 ----->
 
+<!---
+## Portfolio Projects
+
+### Machine Learning Projects
+
+| Project | Tech Stack | Description | Link |
+|--------|------------|-------------|------|
+| **Used Car Price Predictor (Pakwheels)** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4EAA25?style=flat&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | A Streamlit web app to predict used car prices based on scraped Pakwheels data. | [🔗 Project Link](https://danisharain12-used-cars-price-prediction-pakwheels-app-9mtcuv.streamlit.app/) |
+| **Karachi House Price Prediction (Zameen.com)** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4EAA25?style=flat&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | Machine learning model to predict housing prices using real estate data scraped from Zameen.com | [🔗 Project Link](https://github.com/danisharain12/Price-Prediction-of-Karachi-Houses/blob/main/Houses_Price_Prediction_of_Karachi.ipynb) |
+| **PSL 2025 Team Winner Prediction** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | Predicts the likelihood of PSL 2025 team winning based on historical match data. | [🔗 Project Link](https://github.com/danisharain12/Machine-Learning-Projects/tree/main/PSL%202025%20Winner%20Prediction) |
+| **Automobile Price Prediction** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | Model to predict automobile prices based on specifications and normalized loss data. | [🔗 Project Link](https://github.com/danisharain12/Machine-Learning-Projects/tree/main/Automobile%20Price%20Prediction) |
+
+---->
+
 <p align="center">
 
 <a href="https://github.com/AwaisOem?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=AwaisOem&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="github-readme-stats"/></a>
